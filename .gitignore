@@ -1,0 +1,98 @@
+# Byte-compiled / optimized / DLLs
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+venv*/
+
+# Pyenv
+.python-version
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# SQL / DB files
+*.sqlite3
+*.db
+books.db
+biblioteca.db
+test.db
+
+# Flask / Django / instance
+instance/
+local_settings.py
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Mypy / type checkers
+.mypy_cache/
+.pytype/
+
+# Profiling
+.prof
+
+# env files and secrets
+.env
+.env.*
+.envrc
+secrets.json
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage / caches / build metadata
+__pypackages__/
+.pytest_cache/
+.ruff_cache/
+
+# Misc
+*.bak
+*~
+
+# Ignore compiled assets
+*.pyc
