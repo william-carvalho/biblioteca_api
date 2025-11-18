@@ -56,7 +56,7 @@ O objetivo é manter **baixo acoplamento** e **alta testabilidade**.
 
 ## ⚙️ Instalação e Execução (Modo Simples)
 
-### 1. Instale o Python (recomendado 3.11)
+### 1. Instale o Python (recomendado 3.14)
 
 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
